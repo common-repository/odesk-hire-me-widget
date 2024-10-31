@@ -1,0 +1,70 @@
+.ocl{
+	clear: both;
+}
+
+#odesk-widget{
+	border: 1px solid #a9a9a9;
+	padding: 10px;
+	width: 395px;
+}
+
+#odesk-avatar,
+#odesk-summary,
+#odesk-summary #odesk-star,
+#odesk-summary #odesk-info{
+	float: left;
+}
+
+#odesk-summary,
+#odesk-summary #odesk-info{
+	margin-left: 10px;
+}
+
+#odesk-summary h3{
+	margin: 0;
+	font: 16px Roboto;
+}
+
+#odesk-summary h3#odesk-title{
+	font: 300 14px Roboto;
+}
+
+#odesk-summary #odesk-star{
+	background: url(../images/star.png) no-repeat;
+	text-align: center;
+	line-height: 64px;
+	width: 64px;
+	height: 64px;
+}
+
+#odesk-summary #odesk-info table,
+#odesk-summary #odesk-info table td{
+	border: 0;
+	padding: 0;
+	line-height: 1;
+}
+
+#odesk-summary #odesk-info table{
+	width: 160px;
+	margin-top: 5px;
+	margin-bottom: 0;
+}
+
+#odesk-summary #odesk-info table td{
+	padding-bottom: 5px;
+}
+
+#odesk-hire-me{
+	display: block;
+	background: #7bd454;
+	text-align: center;
+	color: #fff;
+	text-decoration: none;
+	margin-top: 6px;
+}
+
+#odesk-hire-me img{
+	height: 15px;
+	width: auto;
+	margin-top: -4px;
+}
